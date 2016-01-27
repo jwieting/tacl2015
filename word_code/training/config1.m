@@ -1,0 +1,10 @@
+rnnoptions.hiddenSize=25;
+rnnoptions.etat=.05;
+rnnoptions.etaw=.5;
+rnnoptions.margin=1;
+rnnoptions.epochs=20;
+rnnoptions.save=1;
+rnnoptions.quiet=1;
+rnnoptions.constraints=1;
+rnnoptions.wordfile='../../core_data/skipwiki25.mat';
+rnnoptions.output='../../models/skipwiki25';
